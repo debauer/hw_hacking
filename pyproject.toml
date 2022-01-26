@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "embedded_hack"
+version = "0.1.0"
+description = ""
+authors = [
+    "David Bauer <github@debauer.net>",
+]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.10"
+pybluez = {git = "https://github.com/pybluez/pybluez"}
+bleak = ">=0.14"
+
+[build-system]
+requires = ["poetry_core>=1.0.0", "setuptools"]
+build-backend = "poetry.core.masonry.api"
