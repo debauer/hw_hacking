@@ -31,3 +31,8 @@ A4:C1:38:FF:FF:FF (unknown)
 A4:C1:38:FF:FF:FF LYWSD03MMC # Mijia LYWSD03MMC Bluetooth 4.2 Thermometer Hygrometer 
 A4:C1:38:FF:FF:FF LYWSD03MMC # Mijia LYWSD03MMC Bluetooth 4.2 Thermometer Hygrometer  
 ```
+
+
+### BLE CTF with ESP32
+
+https://blog.yekki.co.uk/ble-hacking/
